@@ -1,0 +1,8 @@
+*.gdextension
+
+# scons
+.sconsign.dblite
+
+# binaries
+*.obj
+bin/
